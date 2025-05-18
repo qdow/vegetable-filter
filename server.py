@@ -25,14 +25,14 @@ file.close()
 print("Waiting for request from client...")
 while True:
     message = socket.recv()
-    filter = message.decode()
+    filter = message.decode().lower()
 
     print(f"\nReceived from client: {filter}")
 
     results = []
 
     for veg in veg_data:
-        if veg["Season"].lower() == filter.lower():
+        if veg["Season"].lower().find(filter) != -1 or veg["Season"] == "Year-round":
             results.append(veg["Name"])
 
         elif veg["Category"].lower() == filter.lower():
