@@ -32,7 +32,7 @@ while True:
     results = []
 
     for veg in veg_data:
-        if veg["Season"].lower().find(filter) != -1:
+        if filter in veg["Season"]:
             results.append(veg["Name"])
 
         elif veg["Category"].lower() == filter.lower():

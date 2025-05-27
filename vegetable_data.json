@@ -2,611 +2,910 @@
     {
         "Name": "Carrot",
         "Category": "Root",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Spinach",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Tomato",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Broccoli",
         "Category": "Flower",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Potato",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Bell Pepper",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Kale",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Eggplant",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Zucchini",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Cauliflower",
         "Category": "Flower",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Cabbage",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Sweet Potato",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Green Beans",
         "Category": "Legume",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Onion",
         "Category": "Bulb",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Garlic",
         "Category": "Bulb",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Lettuce",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Beetroot",
         "Category": "Root",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Radish",
         "Category": "Root",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Pumpkin",
         "Category": "Fruit",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Peas",
         "Category": "Legume",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Corn",
         "Category": "Grain",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Asparagus",
         "Category": "Stem",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Cucumber",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Brussels Sprouts",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Leek",
         "Category": "Bulb",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Turnip",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Okra",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Celery",
         "Category": "Stem",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Fennel",
         "Category": "Bulb",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Artichoke",
         "Category": "Flower",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Swiss Chard",
         "Category": "Leafy",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Bok Choy",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Rhubarb",
         "Category": "Stem",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Parsnip",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Endive",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Collard Greens",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Rutabaga",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Kohlrabi",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Jicama",
         "Category": "Root",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Scallion",
         "Category": "Bulb",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Mustard Greens",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Chayote",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Sunchoke",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Watercress",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Broccolini",
         "Category": "Flower",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Tomatillo",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Bamboo Shoots",
         "Category": "Stem",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Acorn Squash",
         "Category": "Fruit",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Daikon Radish",
         "Category": "Root",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Bitter Melon",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Dandelion Greens",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Cassava",
         "Category": "Tuber",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Mizuna",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Taro Root",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Purslane",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Jerusalem Artichoke",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Celeriac",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Salsify",
         "Category": "Root",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Chard",
         "Category": "Leafy",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Cress",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Amaranth Greens",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Napa Cabbage",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Tindora",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Malabar Spinach",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Tatsoi",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Winged Bean",
         "Category": "Legume",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Snake Gourd",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Bitter Leaf",
         "Category": "Leafy",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Sorrel",
         "Category": "Leafy",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Celtuce",
         "Category": "Stem",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Epazote",
         "Category": "Herb",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Yardlong Bean",
         "Category": "Legume",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Romanesco",
         "Category": "Flower",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Black Radish",
         "Category": "Root",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Nopales",
         "Category": "Cactus",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Samphire",
         "Category": "Succulent",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Chrysanthemum Greens",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Arugula",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Gai Lan",
         "Category": "Leafy",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Sweet Potato Leaves",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Oca",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Canna Lily Root",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Kangkong",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Amaranth",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Jicama",
         "Category": "Tuber",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Water Chestnut",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Kudzu",
         "Category": "Root",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Taro",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Sea Beet",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Sweet Corn",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Nopalito",
         "Category": "Cactus",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Celery Root",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Broccoli Raab",
         "Category": "Leafy",
-        "Season": "Spring\/Fall"
+        "Season": [
+            "spring",
+            "fall"
+        ]
     },
     {
         "Name": "Lotus Root",
         "Category": "Tuber",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Komatsuna",
         "Category": "Leafy",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Celosia",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Fiddlehead Fern",
         "Category": "Fern",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Chervil",
         "Category": "Herb",
-        "Season": "Spring\/Summer"
+        "Season": [
+            "spring",
+            "summer"
+        ]
     },
     {
         "Name": "Sea Kale",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Wasabi",
         "Category": "Root",
-        "Season": "Spring\/Summer\/Fall\/Winter"
+        "Season": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Upland Cress",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Chinese Broccoli",
         "Category": "Leafy",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "White Radish",
         "Category": "Root",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Japanese Pumpkin",
         "Category": "Fruit",
-        "Season": "Fall"
+        "Season": [
+            "fall"
+        ]
     },
     {
         "Name": "Corn Salad",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Yarrow",
         "Category": "Herb",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Gourd",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Yellow Squash",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Cress",
         "Category": "Herb",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Broccolini",
         "Category": "Leafy",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Salsify",
         "Category": "Root",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Sorrel",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     },
     {
         "Name": "Perilla",
         "Category": "Herb",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Cardoon",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Nasturtium",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Jute Leaves",
         "Category": "Leafy",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Escarole",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Radicchio",
         "Category": "Leafy",
-        "Season": "Fall\/Winter"
+        "Season": [
+            "fall",
+            "winter"
+        ]
     },
     {
         "Name": "Land Cress",
         "Category": "Leafy",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Poblano Pepper",
         "Category": "Fruit",
-        "Season": "Summer"
+        "Season": [
+            "summer"
+        ]
     },
     {
         "Name": "Korean Radish",
         "Category": "Root",
-        "Season": "Winter"
+        "Season": [
+            "winter"
+        ]
     },
     {
         "Name": "Nettle",
         "Category": "Leafy",
-        "Season": "Spring"
+        "Season": [
+            "spring"
+        ]
     }
 ]
