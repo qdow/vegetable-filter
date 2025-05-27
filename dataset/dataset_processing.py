@@ -21,6 +21,8 @@ df.drop(columns=to_drop, inplace=True)
 # we only need each veggie once
 df.drop_duplicates(inplace=True)
 
+# for correct filtering, only use season names
+df.replace("Year-round", "Spring/Summer/Fall/Winter", inplace=True)
 
 df.to_json("vegetable_data.json", orient="records")
 # for use with the microservice server, this file is then moved to the main directory

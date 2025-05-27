@@ -257,7 +257,7 @@
     {
         "Name": "Cassava",
         "Category": "Tuber",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Mizuna",
@@ -292,7 +292,7 @@
     {
         "Name": "Chard",
         "Category": "Leafy",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Cress",
@@ -337,7 +337,7 @@
     {
         "Name": "Bitter Leaf",
         "Category": "Leafy",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Sorrel",
@@ -372,7 +372,7 @@
     {
         "Name": "Nopales",
         "Category": "Cactus",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Samphire",
@@ -452,7 +452,7 @@
     {
         "Name": "Nopalito",
         "Category": "Cactus",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Celery Root",
@@ -497,7 +497,7 @@
     {
         "Name": "Wasabi",
         "Category": "Root",
-        "Season": "Year-round"
+        "Season": "Spring\/Summer\/Fall\/Winter"
     },
     {
         "Name": "Upland Cress",
